@@ -5,7 +5,6 @@ RFCs and drafts
 ===============
 
 * :rfc:`1939#page-15` - Post Office Protocol - Version 3 (APOP/sasl_checkapop)
-* :rfc:`2444` - The One-Time-Password SASL Mechanism (OTP)
 * :rfc:`2808` - The SecurID(r) SASL Mechanism
 * :rfc:`4120` - The Kerberos Network Authentication Service (V5)
 * :rfc:`4178` - The Simple and Protected GSS-API Negotiation (SPNEGO) mechanism
